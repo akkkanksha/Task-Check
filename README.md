@@ -3,7 +3,7 @@ Multiple TodoList for each day, where the task can be easily added and deleted.
 
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1l-mq9UZ7KV4Jbw0sFAAX9bBWMG76T9yN/view?usp=sharing" width="80%"/>
+   <a href="https://ibb.co/xfmj26K"><img src="https://i.ibb.co/rcb6QHK/todolist.jpg" alt="todolist" border="0"></a>
 </div>
 
 ### Instructions to run on local machine (Windows)
